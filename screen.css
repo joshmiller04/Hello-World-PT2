@@ -2,12 +2,18 @@
 body{
     background: #ffffff;
     font-family: Helvetica, sans-serif;
-    border-top: 15px solid #242424;
+    border-top: 15px solid #424242;
     margin: 0;
+    
 }
+
+main {
+    margin: 0 auto;
+    width: 800px;
+}
+
 img{
     width: 100%;
-   
 }
 
 
