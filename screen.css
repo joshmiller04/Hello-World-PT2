@@ -23,7 +23,8 @@ main {
     display: flex;
     gap: 25px;
 }
-details section p{
+details section 
+p{
     margin: 20px;
 }
 details section h2{
