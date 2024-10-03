@@ -23,13 +23,7 @@ main {
     display: flex;
     gap: 25px;
 }
-details section 
-p{
-    margin: 20px;
-}
-details section h2{
-    margin: 20px;
-}
+
 .details section {
 flex-grow: 1;
 flex-basis: 0;
@@ -38,12 +32,20 @@ border-radius: 20px;
 margin-top: 25px;
 
 }
+details section p{
+    margin: 20px;
+}
+details section h2{
+    margin: 20px;
+}
+
 .details section.with-code{
 padding: 0;
 }
 div.code-html{
     padding: 25px;
     background: #424242;
+    color: #E9EAEC;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     
