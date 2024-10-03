@@ -40,7 +40,7 @@ details section h2{
 }
 
 .details section.with-code{
-padding: 0;
+    padding: 0;
 }
 div.code-html{
     padding: 25px;
