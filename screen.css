@@ -13,9 +13,7 @@ main {
     width: 800px;
 }
 .masthead {
-    background-image: url(images/Computer\ image.png);
-    background-size: cover;
-    background-position: bottom;
+    background: no-repeat bottom / cover url(images/Computer\ image.png);
     height: 250px;
     border-radius: 20px;
 }
